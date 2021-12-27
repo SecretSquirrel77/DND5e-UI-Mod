@@ -43,7 +43,7 @@
   "dependencies": [],
   "socket": false,
   "manifest": "https://raw.githubusercontent.com/SecretSquirrel77/DND5e-UI-Mod/main/module.json",
-  "download": "https://raw.githubusercontent.com/SecretSquirrel77/DND5e-UI-Mod/main/dnd-ui-master.zip",
+  "download": "https://raw.githubusercontent.com/SecretSquirrel77/DND5e-UI-Mod/main/dnd-ui-master2.zip",
   "protected": false,
   "coreTranslation": false,
   "library": false
