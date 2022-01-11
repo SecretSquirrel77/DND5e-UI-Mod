@@ -6,7 +6,7 @@
   "authors": [],
   "url": "https://gitlab.com/sasmira/dnd-ui",
   "flags": {},
-  "version": "9.238.2",
+  "version": "9.242.1",
   "minimumCoreVersion": "9",
   "compatibleCoreVersion": "10",
   "scripts": [
@@ -43,7 +43,7 @@
   "dependencies": [],
   "socket": false,
   "manifest": "https://raw.githubusercontent.com/SecretSquirrel77/DND5e-UI-Mod/main/module.json",
-  "download": "https://raw.githubusercontent.com/SecretSquirrel77/DND5e-UI-Mod/main/dnd-ui-master2.zip",
+  "download": "https://raw.githubusercontent.com/SecretSquirrel77/DND5e-UI-Mod/main/dnd-ui-master.zip",
   "protected": false,
   "coreTranslation": false,
   "library": false
